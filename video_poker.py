@@ -1,3 +1,5 @@
+#Video poker game by Paul Beer
+
 import pygame
 import time
 import poker_constants
